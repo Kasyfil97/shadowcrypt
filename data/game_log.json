@@ -1,0 +1,29 @@
+{
+  "session_id": "2026-04-23-001",
+  "turns": [
+    {
+      "turn": 1,
+      "player_action": "move north",
+      "player_pos": [
+        3,
+        2
+      ],
+      "player_hp": 20,
+      "result": "You step north into the shadows of the upper chamber.",
+      "dm_action": "Spawned Bat in room 3 (x=19,y=2). Player unaware.",
+      "dm_narration": "The torchlight catches something glistening on the ceiling far to the east \u2014 then it moves. Wings."
+    },
+    {
+      "turn": 2,
+      "player_action": "move east",
+      "player_pos": [
+        4,
+        2
+      ],
+      "player_hp": 20,
+      "result": "You creep east, hand trailing the damp stone wall.",
+      "dm_action": "Placed a trip-wire trap at corridor x=9,y=3. Rat still at x=12,y=3.",
+      "dm_narration": "That door is iron-banded oak, swollen with moisture. Whatever waits beyond will hear it groan open."
+    }
+  ]
+}
